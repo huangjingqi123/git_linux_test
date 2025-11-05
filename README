@@ -3,3 +3,8 @@ adfafd
 hjqnb666
 用 origin 这个名字来代替完整 URL 做 git push / git fetch / git pull 等远程操作，例如 git push origin main。
 new message
+ Zea Mays SNP Calling Project
+ Project started 2013-01-03
+ Samples expected from sequencing core 2013-01-10
+ Maize reference genome version: refgen3, downloaded 2013-01-04 from
+ http://maizegdb.org into `/share/data/refgen3/`.
