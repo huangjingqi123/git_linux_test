@@ -10,3 +10,4 @@ new message
  http://maizegdb.org into `/share/data/refgen3/`.
 \n test git stash
 test git stash list
+test git commit --amend
