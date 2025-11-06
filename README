@@ -11,3 +11,4 @@ new message
 \n test git stash
 test git stash list
 test git commit --amend
+test git branch infomation
