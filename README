@@ -11,4 +11,8 @@ new message
 \n test git stash
 test git stash list
 test git commit --amend
+<<<<<<< HEAD
 test git branch master
+=======
+test git branch infomation
+>>>>>>> readme-changes
